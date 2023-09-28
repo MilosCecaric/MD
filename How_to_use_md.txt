@@ -1,0 +1,1 @@
+Run md.py and enter one of commands in Commands_of_md.txt file.
