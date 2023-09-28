@@ -17,7 +17,7 @@
 
 ## 1. Introduction<a name="introduction"></a>
 
-The **Student Grade Management System (MD)** is a Python program designed to help users manage and organize student information and their corresponding grades. It allows users to create and manage student records, record grades, rename students, view student lists, view grades, remove students, remove grades, and save all data to a JSON file for future use.
+The **MD** is a Python program designed to help users manage and organize student information and their corresponding grades. It allows users to create and manage student records, record grades, rename students, view student lists, view grades, remove students, remove grades, and save all data to a JSON file for future use.
 
 ## 2. Program Description<a name="program-description"></a>
 
@@ -82,4 +82,4 @@ To exit the program, simply enter the `exit` command. This ensures that all data
 
 ## 8. Conclusion<a name="conclusion"></a>
 
-The **Student Grade Management System (MD)** is a user-friendly Python program for managing student records and grades. It allows users to perform various operations on student data, ensuring data persistence through JSON file storage. The program provides clear feedback and handles errors to enhance the user experience.
+The **MD** is a user-friendly Python program for managing student records and grades. It allows users to perform various operations on student data, ensuring data persistence through JSON file storage. The program provides clear feedback and handles errors to enhance the user experience.
