@@ -1,0 +1,17 @@
+add_user = add new student
+
+go_{name} = select student
+
+rename = rename student
+
+add_mark = add mark for selected student
+
+view_users = view all students
+
+view_marks = view marks for selected students
+
+exit_user = exit from selected student
+
+remove_user = delete selected student
+
+remove_mark = remove mark for selected student
