@@ -1,6 +1,6 @@
 # MD
 
-# Program Documentation: Student Grade Management System (MD)
+# Program Documentation: MD
 
 ## Table of Contents
 
